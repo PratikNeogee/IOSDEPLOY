@@ -1,0 +1,62 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/runner/work/1/s/output/Build/Products/Release-iphonesimulator/dummy.app/dummy'
+relocations:
+  - { offsetInCU: 0x27, offset: 0x73148, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC17textFieldUsernameSo06UITextE0CSgvgTo', symObjAddr: 0x0, symBinAddr: 0x1000033F4, symSize: 0x20 }
+  - { offsetInCU: 0x61, offset: 0x73182, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC17textFieldUsernameSo06UITextE0CSgvgTo', symObjAddr: 0x0, symBinAddr: 0x1000033F4, symSize: 0x20 }
+  - { offsetInCU: 0xB9, offset: 0x731DA, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC17textFieldUsernameSo06UITextE0CSgvsTo', symObjAddr: 0x20, symBinAddr: 0x100003414, symSize: 0x14 }
+  - { offsetInCU: 0x114, offset: 0x73235, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC17textFieldpasswordSo11UITextFieldCSgvgTo', symObjAddr: 0x34, symBinAddr: 0x100003428, symSize: 0x20 }
+  - { offsetInCU: 0x16C, offset: 0x7328D, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC17textFieldpasswordSo11UITextFieldCSgvsTo', symObjAddr: 0x54, symBinAddr: 0x100003448, symSize: 0x14 }
+  - { offsetInCU: 0x1C7, offset: 0x732E8, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC12buttonSigninSo8UIButtonCSgvgTo', symObjAddr: 0x68, symBinAddr: 0x10000345C, symSize: 0x20 }
+  - { offsetInCU: 0x21F, offset: 0x73340, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC12buttonSigninSo8UIButtonCSgvsTo', symObjAddr: 0x88, symBinAddr: 0x10000347C, symSize: 0x14 }
+  - { offsetInCU: 0x27A, offset: 0x7339B, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC11viewDidLoadyyFTo', symObjAddr: 0x180, symBinAddr: 0x100003574, symSize: 0x28 }
+  - { offsetInCU: 0x2AF, offset: 0x733D0, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC6signIn6senderySo8UIButtonCSg_tFTo', symObjAddr: 0x1A8, symBinAddr: 0x10000359C, symSize: 0x4C }
+  - { offsetInCU: 0x301, offset: 0x73422, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC7prepare3for6senderySo17UIStoryboardSegueC_ypSgtFTo', symObjAddr: 0x384, symBinAddr: 0x100003778, symSize: 0x9C }
+  - { offsetInCU: 0x338, offset: 0x73459, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC21textFieldShouldReturnySbSo06UITextE0CFTo', symObjAddr: 0x420, symBinAddr: 0x100003814, symSize: 0x24 }
+  - { offsetInCU: 0x393, offset: 0x734B4, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo', symObjAddr: 0x510, symBinAddr: 0x100003904, symSize: 0x60 }
+  - { offsetInCU: 0x3CA, offset: 0x734EB, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x570, symBinAddr: 0x100003964, symSize: 0x80 }
+  - { offsetInCU: 0x46D, offset: 0x7358E, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerCfETo', symObjAddr: 0x620, symBinAddr: 0x100003A14, symSize: 0x48 }
+  - { offsetInCU: 0x49C, offset: 0x735BD, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerCMa', symObjAddr: 0x668, symBinAddr: 0x100003A5C, symSize: 0x20 }
+  - { offsetInCU: 0x4B0, offset: 0x735D1, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0x688, symBinAddr: 0x100003A7C, symSize: 0x40 }
+  - { offsetInCU: 0x4C4, offset: 0x735E5, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x6C8, symBinAddr: 0x100003ABC, symSize: 0x40 }
+  - { offsetInCU: 0x7EF, offset: 0x73910, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC11viewDidLoadyyF', symObjAddr: 0x9C, symBinAddr: 0x100003490, symSize: 0xE4 }
+  - { offsetInCU: 0x8BF, offset: 0x739E0, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC7prepare3for6senderySo17UIStoryboardSegueC_ypSgtF', symObjAddr: 0x1F4, symBinAddr: 0x1000035E8, symSize: 0x190 }
+  - { offsetInCU: 0x9C7, offset: 0x73AE8, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc', symObjAddr: 0x444, symBinAddr: 0x100003838, symSize: 0xCC }
+  - { offsetInCU: 0xA2B, offset: 0x73B4C, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerCfD', symObjAddr: 0x5F0, symBinAddr: 0x1000039E4, symSize: 0x30 }
+  - { offsetInCU: 0xA68, offset: 0x73B89, size: 0x8, addend: 0x0, symName: '_$s5dummy14ViewControllerC6signIn6senderySo8UIButtonCSg_tFTf4dn_n', symObjAddr: 0x708, symBinAddr: 0x100003AFC, symSize: 0x2B8 }
+  - { offsetInCU: 0x27, offset: 0x73D2A, size: 0x8, addend: 0x0, symName: '_$s5dummy12LoggedUserVCC05labelC4NameSo7UILabelCSgvgTo', symObjAddr: 0x0, symBinAddr: 0x100003DB4, symSize: 0x20 }
+  - { offsetInCU: 0x61, offset: 0x73D64, size: 0x8, addend: 0x0, symName: '_$s5dummy12LoggedUserVCC05labelC4NameSo7UILabelCSgvgTo', symObjAddr: 0x0, symBinAddr: 0x100003DB4, symSize: 0x20 }
+  - { offsetInCU: 0xB9, offset: 0x73DBC, size: 0x8, addend: 0x0, symName: '_$s5dummy12LoggedUserVCC05labelC4NameSo7UILabelCSgvsTo', symObjAddr: 0x20, symBinAddr: 0x100003DD4, symSize: 0x14 }
+  - { offsetInCU: 0x12A, offset: 0x73E2D, size: 0x8, addend: 0x0, symName: '_$s5dummy12LoggedUserVCC11viewDidLoadyyFTo', symObjAddr: 0x188, symBinAddr: 0x100003F3C, symSize: 0x28 }
+  - { offsetInCU: 0x166, offset: 0x73E69, size: 0x8, addend: 0x0, symName: '_$s5dummy12LoggedUserVCC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo', symObjAddr: 0x1B0, symBinAddr: 0x100003F64, symSize: 0xFC }
+  - { offsetInCU: 0x1BC, offset: 0x73EBF, size: 0x8, addend: 0x0, symName: '_$s5dummy12LoggedUserVCC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x2AC, symBinAddr: 0x100004060, symSize: 0x6C }
+  - { offsetInCU: 0x256, offset: 0x73F59, size: 0x8, addend: 0x0, symName: '_$s5dummy12LoggedUserVCCfETo', symObjAddr: 0x348, symBinAddr: 0x1000040FC, symSize: 0x3C }
+  - { offsetInCU: 0x285, offset: 0x73F88, size: 0x8, addend: 0x0, symName: '_$s5dummy12LoggedUserVCCMa', symObjAddr: 0x384, symBinAddr: 0x100004138, symSize: 0x20 }
+  - { offsetInCU: 0x444, offset: 0x74147, size: 0x8, addend: 0x0, symName: '_$s5dummy12LoggedUserVCC11viewDidLoadyyF', symObjAddr: 0x34, symBinAddr: 0x100003DE8, symSize: 0x154 }
+  - { offsetInCU: 0x568, offset: 0x7426B, size: 0x8, addend: 0x0, symName: '_$s5dummy12LoggedUserVCCfD', symObjAddr: 0x318, symBinAddr: 0x1000040CC, symSize: 0x30 }
+  - { offsetInCU: 0x27, offset: 0x742B5, size: 0x8, addend: 0x0, symName: '_$s5dummy11AppDelegateC11application_29didFinishLaunchingWithOptionsSbSo13UIApplicationC_SDySo0j6LaunchI3KeyaypGSgtFTo', symObjAddr: 0x0, symBinAddr: 0x100004158, symSize: 0x8 }
+  - { offsetInCU: 0x4B, offset: 0x742D9, size: 0x8, addend: 0x0, symName: '_$s5dummy11AppDelegateC11application_29didFinishLaunchingWithOptionsSbSo13UIApplicationC_SDySo0j6LaunchI3KeyaypGSgtFTo', symObjAddr: 0x0, symBinAddr: 0x100004158, symSize: 0x8 }
+  - { offsetInCU: 0x8C, offset: 0x7431A, size: 0x8, addend: 0x0, symName: '_$s5dummy11AppDelegateC11application_26configurationForConnecting7optionsSo20UISceneConfigurationCSo13UIApplicationC_So0I7SessionCSo0I17ConnectionOptionsCtFTo', symObjAddr: 0x8, symBinAddr: 0x100004160, symSize: 0x108 }
+  - { offsetInCU: 0xE9, offset: 0x74377, size: 0x8, addend: 0x0, symName: '_$s5dummy11AppDelegateC11application_23didDiscardSceneSessionsySo13UIApplicationC_ShySo14UISceneSessionCGtFTo', symObjAddr: 0x110, symBinAddr: 0x100004268, symSize: 0x4 }
+  - { offsetInCU: 0x11B, offset: 0x743A9, size: 0x8, addend: 0x0, symName: '_$s5dummy11AppDelegateCACycfcTo', symObjAddr: 0x114, symBinAddr: 0x10000426C, symSize: 0x3C }
+  - { offsetInCU: 0x16D, offset: 0x743FB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x180, symBinAddr: 0x1000042D8, symSize: 0x5C }
+  - { offsetInCU: 0x18B, offset: 0x74419, size: 0x8, addend: 0x0, symName: '_$s5dummy11AppDelegateCMa', symObjAddr: 0x1DC, symBinAddr: 0x100004334, symSize: 0x20 }
+  - { offsetInCU: 0x35C, offset: 0x745EA, size: 0x8, addend: 0x0, symName: '_$s5dummy11AppDelegateCfD', symObjAddr: 0x150, symBinAddr: 0x1000042A8, symSize: 0x30 }
+  - { offsetInCU: 0x27, offset: 0x74645, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateC6windowSo8UIWindowCSgvgTo', symObjAddr: 0x0, symBinAddr: 0x100004354, symSize: 0x10 }
+  - { offsetInCU: 0x61, offset: 0x7467F, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateC6windowSo8UIWindowCSgvgTo', symObjAddr: 0x0, symBinAddr: 0x100004354, symSize: 0x10 }
+  - { offsetInCU: 0x81, offset: 0x7469F, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateC6windowSo8UIWindowCSgvgTo', symObjAddr: 0x0, symBinAddr: 0x100004354, symSize: 0x10 }
+  - { offsetInCU: 0xB9, offset: 0x746D7, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateC6windowSo8UIWindowCSgvsTo', symObjAddr: 0x10, symBinAddr: 0x100004364, symSize: 0x34 }
+  - { offsetInCU: 0xFC, offset: 0x7471A, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateC5scene_13willConnectTo7optionsySo7UISceneC_So0I7SessionCSo0I17ConnectionOptionsCtFTo', symObjAddr: 0x44, symBinAddr: 0x100004398, symSize: 0x4 }
+  - { offsetInCU: 0x118, offset: 0x74736, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateC18sceneDidDisconnectyySo7UISceneCFTo', symObjAddr: 0x48, symBinAddr: 0x10000439C, symSize: 0x4 }
+  - { offsetInCU: 0x134, offset: 0x74752, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateC20sceneDidBecomeActiveyySo7UISceneCFTo', symObjAddr: 0x4C, symBinAddr: 0x1000043A0, symSize: 0x4 }
+  - { offsetInCU: 0x150, offset: 0x7476E, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateC21sceneWillResignActiveyySo7UISceneCFTo', symObjAddr: 0x50, symBinAddr: 0x1000043A4, symSize: 0x4 }
+  - { offsetInCU: 0x16C, offset: 0x7478A, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateC24sceneWillEnterForegroundyySo7UISceneCFTo', symObjAddr: 0x54, symBinAddr: 0x1000043A8, symSize: 0x4 }
+  - { offsetInCU: 0x188, offset: 0x747A6, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateC23sceneDidEnterBackgroundyySo7UISceneCFTo', symObjAddr: 0x58, symBinAddr: 0x1000043AC, symSize: 0x4 }
+  - { offsetInCU: 0x1BA, offset: 0x747D8, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateCACycfcTo', symObjAddr: 0x5C, symBinAddr: 0x1000043B0, symSize: 0x48 }
+  - { offsetInCU: 0x20C, offset: 0x7482A, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateCfETo', symObjAddr: 0xD4, symBinAddr: 0x100004428, symSize: 0x10 }
+  - { offsetInCU: 0x23B, offset: 0x74859, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateCMa', symObjAddr: 0xE4, symBinAddr: 0x100004438, symSize: 0x20 }
+  - { offsetInCU: 0x381, offset: 0x7499F, size: 0x8, addend: 0x0, symName: '_$s5dummy13SceneDelegateCfD', symObjAddr: 0xA4, symBinAddr: 0x1000043F8, symSize: 0x30 }
+  - { offsetInCU: 0x2B, offset: 0x749ED, size: 0x8, addend: 0x0, symName: '_$s5dummy19ResourceBundleClass33_B7D04EC52C2BEFFFC278E48FAA8A41E0LLCfD', symObjAddr: 0x0, symBinAddr: 0x100004458, symSize: 0x10 }
+  - { offsetInCU: 0x6D, offset: 0x74A2F, size: 0x8, addend: 0x0, symName: '_$s5dummy19ResourceBundleClass33_B7D04EC52C2BEFFFC278E48FAA8A41E0LLCMa', symObjAddr: 0x10, symBinAddr: 0x100004468, symSize: 0x20 }
+  - { offsetInCU: 0x12E, offset: 0x74AF0, size: 0x8, addend: 0x0, symName: '_$s5dummy19ResourceBundleClass33_B7D04EC52C2BEFFFC278E48FAA8A41E0LLCfD', symObjAddr: 0x0, symBinAddr: 0x100004458, symSize: 0x10 }
+...
